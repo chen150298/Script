@@ -1,5 +1,5 @@
 #!/bin/bash
-# Chen Larry 209192798
+# Chen Larry 
 
 # not enough parameters
 if test $# -lt 3
