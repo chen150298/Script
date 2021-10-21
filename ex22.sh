@@ -1,5 +1,5 @@
 #!/bin/bash
-# Chen Larry 209192798
+# Chen Larry 
 
 ex21_func () {
  # enter the given path
