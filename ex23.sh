@@ -1,5 +1,5 @@
 #!/bin/bash
-# Chen Larry 209192798
+# Chen Larry 
 
 host_func () {
  # flag for check if no parameters
